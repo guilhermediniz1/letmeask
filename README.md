@@ -21,6 +21,9 @@
 
 > Projeto desenvolvido com a NLW 6. Porém, com alguns adicionais, como responsividade e a adição de toasts.
 
+# ℹ️ Sobre o projeto
+Esta aplicação permite a criação de salas onde os usuários podem enviar suas perguntas e o *admin* tem a possibilidade de respondê-las, colocar em destaque
+e deletar perguntas já respondidas.
 
 # 💻 Tecnologias 
   - [React](https://reactjs.org/docs/getting-started.html)
